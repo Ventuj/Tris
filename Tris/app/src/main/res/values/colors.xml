@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorVerde">#00ff3d</color>
+    <color name="colorAzzurro">#2d98da</color>
+    <color name="colorRosso">#eb4d4b</color>
+    <color name="colorTuaMamma">#f0932b</color>
+    <color name="colorArdesia">#353b48</color>
+    <color name="colorBianco">#ffffff</color>
+    <color name="colorCiano">#0abde3</color>
+
+</resources>
